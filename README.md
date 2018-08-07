@@ -18,8 +18,8 @@ Upon installation, run this command to log you inside the VM.
 vagrant ssh
 
 you have to be sure that your database file name is newsdata.sql
-run ----> psql -f setup.sql
-run ----> python final_report.py
+run ----> ```psql -f setup.sql```
+run ----> ```python final_report.py```
 And the output will be .txt file named with the curent time and date
 
 ## Questions 
